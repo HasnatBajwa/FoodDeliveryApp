@@ -1,0 +1,32 @@
+#Restaurant img{
+width:300px;
+height: 150px;
+margin: 10px;
+}
+#Restaurant p{
+    color: red;
+    box-shadow: black 2px;
+    font-size: small;
+    text-align: center;
+   
+}
+#Restaurant{
+    box-shadow: rgb(179, 178, 178) 2px 1px ;
+}
+#Restaurant h6{
+    text-align: center;
+    text-overflow: clip;
+}
+#Restaurant button{
+    border-radius: 5px;
+    border:solid tomato 2px;
+    background-color: whitesmoke;
+    font-size: large;
+    font-weight: bold;
+    color: tomato;
+
+}
+#Restaurant button:hover{
+    background-color: tomato;
+    color: whitesmoke;
+}

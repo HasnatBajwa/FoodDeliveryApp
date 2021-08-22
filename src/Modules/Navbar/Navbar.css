@@ -1,0 +1,23 @@
+#Navbar{
+    background-color: rgb(192, 62, 62);
+    border-radius: 2px;
+    padding: 0%;
+    position: sticky;
+    top: 0%;
+}
+#Navbar img{
+    width: 100%;
+    
+}
+#Navbar button{
+    margin: 2px;
+    border: none;
+    padding: 10px;
+    background-color:rgb(192, 62, 62) ;
+    color: whitesmoke;
+    font-weight: bold;
+    border-radius: 2px;
+}
+#Navbar button:hover{
+background-color: tomato;
+}

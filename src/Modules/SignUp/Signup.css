@@ -1,0 +1,27 @@
+#SignUp{
+    border: solid 2px tomato;
+    border-radius: 10px;
+    box-shadow: rgb(246, 245, 245) 1px 2px;
+    margin: 10px;
+    text-align: center;
+    width: 50%;
+   margin-left: 350px;
+   margin-bottom: 300px;
+}
+#SignUp button{
+    background-color: whitesmoke;
+    color: tomato;
+    border-radius: 5px;
+    border: solid 2px tomato;
+    font-size: large;
+}
+#SignUp button:hover{
+    background-color: tomato;
+    color: whitesmoke;
+}
+#signuppage{
+    background-color: rgb(173, 171, 171);
+    color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}

@@ -1,0 +1,13 @@
+#Footer{
+    background-color: rgb(100, 98, 98);
+    text-align: center;
+    position: sticky;
+    width: 100%;
+}
+#Footer p{
+    text-align: center;
+    color: whitesmoke;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
